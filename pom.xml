@@ -8,7 +8,7 @@
   <name>integration Maven Webapp</name>
   <url>http://maven.apache.org</url>
    <properties>
-	<sonar.host.url>http://3.111.246.232/:9000/</sonar.host.url>
+	<sonar.host.url>http://13.232.236.194/:9000/</sonar.host.url>
 	<sonar.login>c1278bd1296afca13959253c707b647c42cd773c</sonar.login>
 
   </properties>
